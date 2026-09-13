@@ -1,2 +1,1 @@
-﻿Console.WriteLine("Hello, World!lapa" +
-    ");
+﻿Console.WriteLine("Hello, World!lapa" 
